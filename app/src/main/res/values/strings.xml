@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Linear</string>
+    <string name="name">Luis Diego</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola, mi nombre es Luis Diego Martínez López.
+\n\nMe gusta jugar futbol.
+\n\nDe niño jugaba futbol todos los dias con mis primos y amigos.
+\nDesde los 6 años soy aficionado de las chivas.
+\n\nActualmente no practico ningun deporte y me estoy enfocando en programar.
+\nEstoy aprendiendo a programar aplicaciones moviles.
+\nUtilizo el lenguaje kotlin para realizar mis aplicaciones.
+\n\nMi última aplicación fueron dos dados que sumaban sus valores.
+\n\Estoy emocionado por aprender más sobre este lenguaje.
+\nEspero lograr ser un buen desarrolador de aplicaiones\n\n</string>
+    <string name="verde_img">verde</string>
+</resources>
